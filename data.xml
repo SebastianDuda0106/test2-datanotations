@@ -1,0 +1,22 @@
+<computersoftware>
+    <software1 type="darmowy">
+        <component>LibreOffice</component>
+        <component>GIMP</component>
+        <component>VLC Media Player</component>
+    </software1>
+    <software2 type="platny">
+        <component>FL Studio</component>
+        <component>Adobe Photoshop</component>
+        <component>Microsoft 365</component>
+    </software2>
+    <software3 type="polski">
+        <component>Playery</component>
+        <component>IVONA</component>
+        <component>Pajączek</component>
+    </software3>
+    <software4 type="zagraniczny">
+        <component>Opera GX</component>
+        <component>Avast Free Antivirus</component>
+        <component>CCleaner</component>
+    </software4>
+</computersoftware>

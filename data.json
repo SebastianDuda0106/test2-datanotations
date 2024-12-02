@@ -1,0 +1,22 @@
+[
+    {
+        "category": "Operating Systems",
+        "description": "Software that manages hardware and software resources",
+        "examples": ["Windows", "Linux", "macOS"]
+    },
+    {
+        "category": "Applications",
+        "description": "Programs designed to perform specific tasks for users",
+        "examples": ["Word Processors", "Web Browsers", "Photo Editors"]
+    },
+    {
+        "category": "Utilities",
+        "description": "Software that performs maintenance or support tasks",
+        "examples": ["Antivirus", "File Compression", "Disk Cleanup"]
+    },
+    {
+        "category": "Development Tools",
+        "description": "Software used to create, debug, and maintain other software",
+        "examples": ["IDEs", "Compilers", "Version Control Systems"]
+    }
+]
