@@ -1,0 +1,98 @@
+h1 {
+    text-align: center;
+    margin-bottom: 1cm;
+
+}
+
+.naglowek{
+    text-align: center;
+    color: green;
+    margin-bottom: 0;
+}
+
+p
+{
+    text-align: justify;
+    font-style: italic;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+}
+
+a:hover{
+    background-color: blue;
+}
+
+.topnav {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.column {
+    flex: 1;
+    min-width: 420px;
+    max-width: 600px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+.column h2 {
+    text-align: center;
+    color: black;
+}
+
+.column p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: black;
+}
+
+@media (max-width: 900px) {
+    .container {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+th{
+    clear: both;
+    color: white;
+    background-color: black;
+}
+td{
+    border: black solid 2px;
+}
+img{
+    width: 335px;
+    height: 300px;
+    border: 5px solid gold;
+    padding: 3px;
+    margin-right: 1cm;
+}
+
+
+input[type="submit"]{
+    background-color: orange;
+}
+input[type="text"]{
+    background-color: blue;
+}
+button{
+    background-color: orange;
+    margin-right: 1cm;
+}
+textarea{
+    background-color: blue;
+}
+ol.autorzy{
+    list-style-type:upper-latin;
+    border: 1px solid black;
+    font-weight: bold;
+}
